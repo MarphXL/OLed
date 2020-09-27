@@ -16,14 +16,18 @@
 bla
 
 ## Hardware
-### Technische Daten
-* Modell:Multiplexer/Demultiplexer
-* Typ:74HC 4067
-* Temperaturbereich:-40 ... +85 °C
-* Versorgungsspannung:2,0 ... 10,0 VDC
-* Leistung:500 mW
-* LCSC Part #: C6525 / C424181 / [C98457](https://lcsc.com/product-detail/Analog-Switches_TI_CD74HC4067SM96_CD74HC4067SM96_C98457.html/?href=jlc-SMT)
-* EAN / GTIN: 9900001079047
+### Technical Parameters
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+Driver Chip	| SH1106
+Working Temperature | -30 ~ 80 ℃
+Color	| White, Blue
+Power Supply| 2.5V ~ 6V
+Interface  SPI (2.54 x 6) or IIC (2.54 x 4) optional
+Display Resolution | 1.3 inch, Dot 128×64
+Size  35.5 x 32 x 3.6 mm
 
 ### Datasheet
 * [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
@@ -47,3 +51,4 @@ bla
 * :+1: [atom](https://github.com/atom)
 * :+1: [mattahan](https://www.deviantart.com/mattahan) for the [Buuf graphics](https://www.deviantart.com/mattahan/art/Buuf-37966044)
 * :+1: @ikatyang for the [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* :+1: [heltec.cn](https://heltec.org/project/13-oled/)
