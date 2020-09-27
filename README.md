@@ -17,10 +17,8 @@ bla
 
 ## Hardware
 ### Technical Parameters
-??? | ???
+Parameter | Value
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 Driver Chip	| SH1106
 Working Temperature | -30 ~ 80 ℃
 Color	| White, Blue
